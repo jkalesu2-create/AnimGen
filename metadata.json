@@ -1,0 +1,6 @@
+{
+  "name": "Animation Generator Landing Page",
+  "description": "A high-converting landing page for AnimGen, an AI-powered animation generator tool, featuring interactive canvas particles, pricing toggles, FAQs, and realistic live demos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
